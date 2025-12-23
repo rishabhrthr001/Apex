@@ -30,7 +30,7 @@ Axios / Fetch
 
 ⚙️ Setup
 ```
-git clone https://github.com/your-username/typescript-react-ecommerce.git
+git clone https://github.com/yrishabhrthr001/apex.git
 cd typescript-react-ecommerce
 npm install
 ```
